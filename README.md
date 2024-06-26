@@ -1,5 +1,5 @@
 # demo
 
 this is a demo project
-
-Author - Shahrukh Khan
+<br>
+Author - P Shahrukh Khan
